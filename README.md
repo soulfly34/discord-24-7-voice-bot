@@ -23,6 +23,6 @@
 
 
 ## Örnek Kod / Sample Kod:
-
+> Token Geçersiz / Token Invalid
 ![Örnek/Sample](https://cdn.discordapp.com/attachments/790292385710997504/808061882911948850/unknown.png)
 
